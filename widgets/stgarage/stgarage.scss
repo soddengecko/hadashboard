@@ -1,7 +1,11 @@
 // ----------------------------------------------------------------------------
 // Widget-stgarage styles
 // ----------------------------------------------------------------------------
+@import "/app/assets/stylesheets/themes/current.scss";
+
 .widget-stgarage {
+
+  background-color: $background-color-action !important;
 
   .icon-open {
   	color: #ff00aa;
